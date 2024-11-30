@@ -41,7 +41,7 @@ Tela 1
 
 ## Autores
 
-- [@octokatherine](https://www.github.com/octokatherine)
+- [@Carla-coder](https://www.github.com/Carla-coder)
 
 ## Instituição de Ensino
 
